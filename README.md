@@ -1,0 +1,2 @@
+# minimizadorAFD
+# MinimizacaoAutomatos
